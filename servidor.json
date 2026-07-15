@@ -1,0 +1,15 @@
+{
+  "ativo": true,
+  "bloquear_app": false,
+  "mensagem": "",
+  "principal": {
+    "dns": "http://777megga.net.br",
+    "usuario": "62279139",
+    "senha": "73285781"
+  },
+  "reserva": {
+    "dns": "",
+    "usuario": "",
+    "senha": ""
+  }
+}
