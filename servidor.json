@@ -2,14 +2,24 @@
   "ativo": true,
   "bloquear_app": false,
   "mensagem": "",
+
   "principal": {
     "dns": "http://anubysserver.xyz",
     "usuario": "69374090",
     "senha": "93891458"
   },
+
   "reserva": {
-    "dns": "",
-    "usuario": "",
-    "senha": ""
+    "dns": "http://anubysserver.xyz",
+    "usuario": "69374090",
+    "senha": "93891458"
+  },
+
+  "pagamento": {
+    "token": "Bearer APP_USR-6804434662243446-062007-7a4ea422d4e90844585c9a68083cbad0-471650235",
+    "valor": 16.50,
+    "descricao": "Mensalidade MyTV",
+    "dias_acesso": 30,
+    "minutos_teste": 1
   }
 }
