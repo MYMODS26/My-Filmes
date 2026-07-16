@@ -23,7 +23,6 @@
   },
 
   "persistencia_github": {
-    "token": "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",
     "owner": "MYMODS26",
     "repo": "My-Filmes",
     "branch": "main",
