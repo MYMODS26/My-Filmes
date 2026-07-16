@@ -19,7 +19,14 @@
     "token": "Bearer APP_USR-6804434662243446-062007-7a4ea422d4e90844585c9a68083cbad0-471650235",
     "valor": 29.99,
     "descricao": "Mensalidade MyTV",
-    "dias_acesso": 30,
-    "minutos_teste": 1
+    "dias_acesso": 30
+  },
+
+  "persistencia_github": {
+    "token": "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",
+    "owner": "MYMODS26",
+    "repo": "My-Filmes",
+    "branch": "main",
+    "pasta": "mytv_devices"
   }
 }
