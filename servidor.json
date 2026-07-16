@@ -17,7 +17,7 @@
 
   "pagamento": {
     "token": "Bearer APP_USR-6804434662243446-062007-7a4ea422d4e90844585c9a68083cbad0-471650235",
-    "valor": 16.50,
+    "valor": 29.99,
     "descricao": "Mensalidade MyTV",
     "dias_acesso": 30,
     "minutos_teste": 1
